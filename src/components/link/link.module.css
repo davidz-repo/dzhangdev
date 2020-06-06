@@ -1,0 +1,29 @@
+.wrapper {
+  margin-bottom: 30px;
+}
+
+.linkTitle {
+  border-bottom: 1px solid #ec6c6c;
+  color: #32404b;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.linkTitle:hover {
+  color: #ec6c6c;
+}
+
+.title {
+  color: #32404b;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.desc {
+  font-size: 16px;
+}
